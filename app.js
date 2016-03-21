@@ -2,7 +2,7 @@
 
 class myFirstEs6Class {
 	constructor() {
-		this.myConst = "bla bla";	
+		this.myConst = "bla bla123";	
 	}	
 
 	test() {

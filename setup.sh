@@ -3,7 +3,7 @@
 cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 npm install babel-preset-es2015 --save-dev
-npm install browserify
+npm install browserify babelify
 
 echo '{ "presets": ["es2015"] }' > .babelrc
 

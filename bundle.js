@@ -9,7 +9,7 @@ var myFirstEs6Class = function () {
 	function myFirstEs6Class() {
 		_classCallCheck(this, myFirstEs6Class);
 
-		this.myConst = "bla bla";
+		this.myConst = "bla bla123";
 	}
 
 	_createClass(myFirstEs6Class, [{
